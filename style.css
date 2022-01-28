@@ -1,0 +1,33 @@
+.auto-scroll {
+  overflow: scroll;
+}
+.heading {
+  /* text-align: center; */
+  color:black;
+  padding-top: 3rem;
+  font-weight: bolder;
+  text-align: center;
+}
+.form-group {
+  align-items: center;
+}
+.para {
+  font-size: 20px;
+  margin-top: 3rem;
+}
+.textbox {
+  margin-top: 1rem;
+  width: 80%;
+}
+.btn{
+  background-color: #00bf6f;
+}
+.text-center{
+  margin-top: 5rem;
+}
+.main{
+  background-image:url(./ecommerce-online-shopping-seamless-background-vector-1837450\ copy.jpeg);
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  color: whitesmoke;
+}
